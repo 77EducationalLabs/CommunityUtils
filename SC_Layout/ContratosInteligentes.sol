@@ -1,13 +1,13 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.20;
+pragma solidity 0.8.26;
 
 ///Imports///
 
-///Errors///
+///Interfaces///
 
-///Interfaces, Libraries///
+///Libraries///
 
-contract BellumGalaxy {
+contract ExampleContract {
 
     ///Type declarations///
 
@@ -15,9 +15,11 @@ contract BellumGalaxy {
 
     ///Events///
 
+	///Errors///
+
     ///Modifiers///
 
-    ///Functions///
+    //////Functions//////
 
     ///constructor///
 
