@@ -7,7 +7,7 @@ pragma solidity 0.8.26;
 
 ///Libraries///
 
-contract ExampleContract {
+contract ContratosInteligentes {
 
     ///Type declarations///
 
